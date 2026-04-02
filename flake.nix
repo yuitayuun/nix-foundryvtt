@@ -54,6 +54,10 @@
             majorVersion = "13";
             releaseType = "stable";
           };
+          foundryvtt_14 = mkFoundry {
+            majorVersion = "14";
+            releaseType = "prototype";
+          };
           foundryvtt_latest = self.packages.${system}.foundryvtt_12;
           default = self.packages.${system}.foundryvtt;
         }
