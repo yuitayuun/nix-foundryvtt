@@ -448,6 +448,11 @@
     "npmDepsHash": "sha256-g3gz3cLBk0eIlH97AZ7lkFfZDP3lrJ0rBISXR2T4Vm0=",
     "releaseType": "testing"
   },
+  "14.359": {
+    "hash": "sha256-w+U1JkJ0u5CSI0rtx7HpRbR2fKYvm52h4Iihm+q+6bU=",
+    "npmDepsHash": "sha256-lUgpKGiuksKsEsS6cQ4D8A3HOGqYTdLsdb6wo5Tp3U0=",
+    "releaseType": "stable"
+  },
   "2.35": {
     "releaseType": "prototype"
   },
